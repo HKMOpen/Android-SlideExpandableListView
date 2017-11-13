@@ -144,6 +144,9 @@ If you have any contributions I am gladly to review them and use them if they ma
 * [TjerkWolterink] (http://about.me/tjerkw), about me (https://github.com/tjerkw), my linked in (http://www.linkedin.com/in/tjerkwolterink)
 * [Udinic] (https://github.com/Udinic/SmallExamples/tree/master/ExpandAnimationExample), his blog (http://udinic.wordpress.com/2011/09/03/expanding-listview-items/) contains the initial idea
 
+### Thank you for your support and we will bring more amazing libraries to your productive works. We are accepting bitcoin by the address as below. Please scan the QR code to start
+![wallet](http://s32.postimg.org/sdd1oio1t/qrwallet.jpg)
+
 ## License
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
